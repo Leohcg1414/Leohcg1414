@@ -1,6 +1,6 @@
 ## Olá eu sou o Leonardo Garcia ✋
   
-  ###  	<h4> - Desenvolvedor com experiência nas linguagens como Delphi,SQL e JavaScript.<h4>
+  ###  	<h4> - Desenvolvedor com experiência nas linguagens como Python,Delphi,SQL e JavaScript.<h4>
   ###  <h4> - Conhecimento em Android, Java, Css. <h4>
 
 ## ⚡ Sobre
