@@ -4,7 +4,7 @@
   ###  <h4> - Conhecimento em Android, Java, Css. <h4>
 
 ## ⚡ Sobre
- <h4>Sou graduando em Ciências da Computação e desenvolvedor com mais de 3 anos de experiência em desenvolvimento de novos projetos, e com resolução de problemas para sistemas corporativos! <h4>
+ <h4>Sou graduando em Ciências da Computação e desenvolvedor com mais de 3 anos de experiência. Tenho experiências com desenvolvimento de projetos e com resolução de problemas para sistemas corporativos.! <h4>
 
 
 ## 🔭 Linguagens e Tecnologias
